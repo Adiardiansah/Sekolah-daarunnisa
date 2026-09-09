@@ -1,0 +1,6 @@
+{
+  "name": "Sekolah Daarunnisa",
+  "description": "Website profil resmi Sekolah Daarunnisa dengan formulir kontak interaktif, pendaftaran daring (PPDB), informasi kurikulum, integrasi media sosial dan WhatsApp, serta peta lokasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
